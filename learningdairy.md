@@ -78,3 +78,35 @@ using html css and js using ids and functions
 
 # 25-07-25
       
+
+# 28-07-25
+
+      https://github.com/Jay-study-nildana/BungieCordBlog
+ 
+      https://github.com/Jay-study-nildana/AngularForStudents
+ 
+      Azure-CSharp-Corp-Trainer-Syllabus/SQLFundamentals/DCComics at main · Jay-study-nildana/Azure-CSharp-Corp-Trainer-Syllabus
+      
+
+      Warning: The current version of Node (24.1.0) is not supported by Angular.
+      PS C:\Users\2430683\Videos\Angular_Practice> ng new my-angular-app
+      ? Would you like to add Angular routing? Yes
+      ? Which stylesheet format would you like to use? CSS
+
+
+      we can use npm serve and npm start to run the angular page
+      for creating new page use ng appname
+
+
+      c#
+            console.writeLine() in this method the cursor will move to the next line in console.write() the cursor will be in same line the cursor will append the nextline
+
+            Console.WriteLine(0.25F); the "F" is a literal suffix it defines the characters type in this example it is float type "M" is the literal suffix for decimal
+
+            A verbatim string literal will keep all whitespace and characters without the need to escape the backslash. To create a verbatim string, use the @ directive before the literal string.
+
+                  Console.WriteLine(@"    c:\source\repos    );
+
+# 29-07-2025
+      Repo and project board are different
+      
