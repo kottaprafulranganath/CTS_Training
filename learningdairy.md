@@ -109,4 +109,85 @@ using html css and js using ids and functions
 
 # 29-07-2025
       Repo and project board are different
-      
+# 30-07-2025
+      1. [FreeCodeCamp C# Course](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+2.   Build a Simple Web API Project from Scratch
+3. Connect your Web API to your SQL Server using Entity Framework
+4. **Database Context**
+   - Two Databases
+   - Migrations
+5. Use and Understand Swagger Documentation
+6. GET, POST, PUT, DELETE
+7. JSON Objects
+8. Understand JSON Responses
+9. Understand JSON Body (in Request/POST)
+10. General Web API Endpoints
+11. Build Web API Endpoints in .NET (API Controllers)
+12. Build C# Functions, Parameters
+13. Use DTO Classes
+14. Use Classes for Database, Models
+15. Use POCOs (Plain Old CLR Objects) for other things
+16. Dependency Injection
+17. Interfaces and Implementations
+18. LINQ Queries
+19. Loops: IF Conditions, Whiles
+20. Read and Write Comments
+
+---
+
+## SOLID Principles
+
+- [GitHub - SOLID Principles](https://github.com/Jay-study-nildana/CSharpForStudents/tree/main/SOLIDPrinciples)
+
+---
+
+## Design Patterns
+
+- [GitHub - Design Patterns](https://github.com/Jay-study-nildana/CSharpforStudents/tree/main/DesignPatterns)
+
+---
+
+## Authentication
+
+- OAuth2
+- Microsoft Identity Library
+- JWT Tokens
+- Roles
+- Authentication flow from Backend to Frontend
+
+---
+
+## Additional Topics
+
+- File Uploads
+- Repository Pattern
+- AppSettings
+
+
+
+# .Net and C#
+      https://cognizant.udemy.com/course/dapper-the-complete-guide/
+
+
+      1. Package.json
+      1.   How to add packages to your angular project
+      1. How to create a new angular project
+      1. How to add bootstrap
+      1. add means generate components
+      1. Routing works in the Angular Project
+      1. Add Interceptors for adding authentication
+      1. Common UI things like Navbar and Footer
+      1. State Management (Logged In, Logged Out, User Profiles)
+      1. Add Token to your API Calls
+      1. How to make API calls (Services) 
+      1. How to build services, for example, authentication services
+      1. How to build guards (for roles and auth based restriction)
+      1. Display data that is obtained from the API calls
+      1. Bind the data from the "code behind" file to the "view" file. TypeScript file to the HTML file.
+      1. Angular directives, like, ngFor
+      1. data binding with {{}}
+
+
+
+# 31-07-2025
+      cd CTS
